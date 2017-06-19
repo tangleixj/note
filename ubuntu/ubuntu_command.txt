@@ -1,0 +1,5 @@
+﻿图形化查看系统资源工具: htop
+
+查看PDF工具:Okular
+
+系统更新命令: sudo update-manager -c -d 
